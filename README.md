@@ -30,7 +30,7 @@ This project focuses on forecasting agricultural production using time-series an
 - Try hybrid models  
 
 ## Technologies
-Python, Pandas, NumPy, TensorFlow, Keras, Statsmodels  
+Python,mathplotlib, Pandas, NumPy, TensorFlow, Keras, Statsmodels  
 
 ## How to Run
 ```bash
